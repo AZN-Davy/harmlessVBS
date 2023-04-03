@@ -1,0 +1,8 @@
+X=MsgBox("Virus is Activated",2+16,"Virus, Virus, ViRuS ")
+X=MsgBox("Deleting System Files..",2+16,"File Deletion")
+X=MsgBox("Copying password..",2+48,"Virus Alert")
+X=MsgBox("Please wait. Uploading your files to hack server. Do you want to stop it?",4+64,"File Transfer")
+X=MsgBox("Cannot stop. File transfer Completed",1+16,"Completed")
+X=MsgBox("Your computer is hacked",1+64,"Hacked")
+X=MsgBox("You cannot Access your computer Anymore..",0+16,"Title")
+X=MsgBox("c'est un PRANK!!!!!, There is no virus",1+64,"No virus")
